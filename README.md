@@ -1,2 +1,2 @@
 # Hello-World
-For quickstart ind Github Docs
+For an exercise in Github Docs Quickstart
